@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solving+Enthusiast;Computer+Engineering+Student;MERN+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Engineering+Student;Problem+Solving+Enthusiast;Google+Gemini+Ambassador" alt="Typing SVG" />
 
 <!-- Stats Cards -->
 <div align="center">
@@ -24,7 +24,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
-A passionate **Computer Engineering student** with a **9.32 CGPA** and strong foundation in **Data Structures & Algorithms**. I love building **full-stack applications** and solving **complex problems**. Currently exploring **System Design** and **Competitive Programming**.
+A final-year **Computer Engineering student (SPPU)** with a strong **9.02 CGPA** and a robust foundation in **full-stack development** and data structures & algorithms. Passionate about building scalable applications, tackling complex problem sets, and exploring modern cloud technologies. Currently serving as a **Student Ambassador for Google Gemini**.
 
 ---
 
@@ -32,27 +32,43 @@ A passionate **Computer Engineering student** with a **9.32 CGPA** and strong fo
 
 <div align="center">
 
-### 💻 **Frontend & Backend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 👨‍💻 Languages:
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" title="JavaScript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" title="TypeScript" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50" title="C++" />
+</p>
 
-### 🗄️ **Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚀 Frameworks, Libraries & Runtime:
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50" title="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" />
+</p>
 
-### 🎨 **Styling & UI**
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🗄️ Databases & Backend Services:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://api.iconify.design/logos:supabase-icon.svg" width="50" title="Supabase" />
+  <img src="https://api.iconify.design/logos:prisma.svg" width="50" title="Prisma" />
+  <img src="https://api.iconify.design/logos:convex-icon.svg" width="50" title="Convex" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+</p>
+
+### 🛠 Tools & Styling:
+<p align="center">
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="50" title="Tailwind CSS" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="50" alt="Git Logo" title="Git" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" title="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" title="VS Code" />
+  <img src="https://api.iconify.design/logos:postman-icon.svg" width="50" title="Postman" />
+</p>
 
 </div>
 
 ---
-
 
 ## ⚡ Stats ⚡
 
@@ -69,24 +85,28 @@ A passionate **Computer Engineering student** with a **9.32 CGPA** and strong fo
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Positions of Responsibility
 
 <div align="center">
 
-<!-- Achievement Cards -->
 <div align="center">
 
 🎓 **Academic Excellence**  
-*Maintained 9.32 CGPA in Computer Engineering*
+*Maintained a 9.02 CGPA in Computer Engineering at SPPU*
 
-🏅 **Smart India Hackathon 2025**  
-*Qualified with "ResQ" - Emergency Response App*
+🏅 **Smart India Hackathon (SIH)**  
+*College-level qualifier for a disaster alert and rescue platform*
 
 🥉 **SPPU Avishkar Competition**  
-*3rd Position | Zonal Level Representation*
+*Winner / Zonal Level Representation for a civic issue reporting platform with custom prioritization logic*
 
-💻 **LeetCode Problem Solver**  
-*Active participant in coding challenges*
+🌐 **Google Gemini Student Ambassador** *(May 2026 – Present)*  
+*Official campus representative and promoter for Google Gemini initiatives*
+
+📢 **Internshala Student Partner** *(Feb 2026 – Apr 2026)*  
+*Facilitated and promoted professional internship opportunities across the student community*
+
+</div>
 
 </div>
 
@@ -97,7 +117,7 @@ A passionate **Computer Engineering student** with a **9.32 CGPA** and strong fo
 <div align="center">
 
 <!-- Social Links -->
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmottrale@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmotirale@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-motirale)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/manish_is_here/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishmotirale)
